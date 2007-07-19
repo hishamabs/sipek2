@@ -1,0 +1,35 @@
+#summary A simple VoIP phone
+#labels Featured,Phase-Requirements
+
+= Content =
+
+  * [Introduction]
+  * [Features]
+  * [Future Plans]
+  * Getting started
+  * Developer's Guide
+
+
+= Introduction =
+
+Sipek2 is a simple VoIP phone. 
+...
+
+= Features =
+
+  * SIP (RFC 3261)
+  * Instant Messaging and Presence
+
+
+= Future Plans =
+...
+
+
+
+
+
+
+
+
+
+
