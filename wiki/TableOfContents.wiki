@@ -1,15 +1,15 @@
 #summary TOC for Sipek Softphone project
 
-= Introduction =
+= Welcome to Sipek Softphone Project =
 
 Sipek Sofpthone is a free SIP Softphone solution.
 
-It supports most standards...
+It supports most standards and offers many useful telephony features. 
 
   * Introduction to Sipek Softphone
-    * [WhatIs What is Sipek?]
+    * [About What is Sipek?]
     * [GettingStarted Getting Started with Sipek Softphone]
   * Technical Notes
     * [HowItWorks How does Sipek work?]
-    * [TechnicalBackground Tehnical background]
+    * [TechnicalBackground Technical background]
   * [FAQ FAQ]
