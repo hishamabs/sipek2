@@ -4,12 +4,12 @@
 
 Sipek Sofpthone is a free SIP Softphone solution.
 
-It supports most standards, and will likely make you more popular.
+It supports most standards...
 
-  * [Introduction Introduction to WhizBang]
-    * [WhyUse Why use WhizBang?]
-    * [GettingStarted Getting Started with WhizBang]
+  * [Introduction Introduction to Sipek Softphone]
+    * [WhatIs What is Sipek?]
+    * [GettingStarted Getting Started with Sipek Softphone]
   * Technical Notes
-     * [HowItWorks How does WhizBang work?]
-     * [NonStandardSupport Support for nonstandard situations]
+     * [HowItWorks How does Sipek work?]
   * [FAQ FAQ]
+
