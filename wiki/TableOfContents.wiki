@@ -6,10 +6,10 @@ Sipek Sofpthone is a free SIP Softphone solution.
 
 It supports most standards...
 
-  * [Introduction Introduction to Sipek Softphone]
+  * Introduction to Sipek Softphone
     * [WhatIs What is Sipek?]
     * [GettingStarted Getting Started with Sipek Softphone]
   * Technical Notes
-     * [HowItWorks How does Sipek work?]
+    * [HowItWorks How does Sipek work?]
+    * [TechnicalBackground Tehnical background]
   * [FAQ FAQ]
-
