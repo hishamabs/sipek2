@@ -1,21 +1,21 @@
-#summary SipekSdk
+#summary Sipek Softphone project documentation
 
 = Introduction =
 
-SipekSdk is a free SIP software development kit.
-
+Sipek Softphone is a free SIP softphone project.
 
 = Further reading =
 
-* [Getting started]
+
+ * [Getting started]
+
    * [Programming reference]
-* [FAQ]
+ * [FAQ]
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
-
 
 
 
