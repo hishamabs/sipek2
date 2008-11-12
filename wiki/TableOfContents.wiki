@@ -2,12 +2,14 @@
 
 = Introduction =
 
-Add your content here.
+Sipek Sofpthone is a free SIP Softphone solution.
 
+It supports most standards, and will likely make you more popular.
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * [Introduction Introduction to WhizBang]
+    * [WhyUse Why use WhizBang?]
+    * [GettingStarted Getting Started with WhizBang]
+  * Technical Notes
+     * [HowItWorks How does WhizBang work?]
+     * [NonStandardSupport Support for nonstandard situations]
+  * [FAQ FAQ]
