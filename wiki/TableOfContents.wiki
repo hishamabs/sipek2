@@ -6,7 +6,7 @@ Sipek Sofpthone is a free SIP Softphone solution.
 
 It supports most standards and offers many useful telephony features. 
 
-  * Introduction to Sipek Softphone
+  * Introduction
     * [About What is Sipek?]
     * [GettingStarted Getting Started with Sipek Softphone]
   * User's Manual
@@ -14,7 +14,7 @@ It supports most standards and offers many useful telephony features.
     * [Calling Calling with Sipek]
     * [Buddylist Using Buddy list]
     * [Presence Publishing User Status]
-    * Technical background
-      * [HowItWorks How does Sipek work?]
-      * [Design Design Patterns]
+  * Technical background
+    * [HowItWorks How does Sipek work?]
+    * [Design Design Patterns]
   * [FAQ FAQ]
