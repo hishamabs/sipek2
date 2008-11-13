@@ -9,13 +9,12 @@ It supports most standards and offers many useful telephony features.
   * Introduction to Sipek Softphone
     * [About What is Sipek?]
     * [GettingStarted Getting Started with Sipek Softphone]
-    * User's Manual
-      * [Settings Configuration Settings]
-      * [Calling Calling with Sipek]
-      * [Buddylist Using Buddy list]
-      * [Presence Publishing User Status]
-  * Technical Notes
-    * [HowItWorks How does Sipek work?]
-    * [TechnicalBackground Technical background]
+  * User's Manual
+    * [Settings Configuration Settings]
+    * [Calling Calling with Sipek]
+    * [Buddylist Using Buddy list]
+    * [Presence Publishing User Status]
+    * Technical background
+      * [HowItWorks How does Sipek work?]
       * [Design Design Patterns]
   * [FAQ FAQ]
