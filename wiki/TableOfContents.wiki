@@ -1,5 +1,4 @@
 #summary TOC for Sipek Softphone project
-#labels Featured
 
 = Welcome to Sipek Softphone Project =
 
