@@ -1,4 +1,5 @@
 #summary TOC for Sipek Softphone project
+#labels Featured
 
 = Welcome to Sipek Softphone Project =
 
@@ -11,7 +12,9 @@ It supports most standards and offers many useful telephony features.
     * [GettingStarted Getting Started with Sipek Softphone]
   * User's Manual
     * [Settings Configuration Settings]
-    * [Calling Calling with Sipek]
+      * [ConfAccounts Setting up accounts]
+      * [ConfAdvanced Advanced settings]
+  * [Calling Calling with Sipek]
     * [Buddylist Using Buddy list]
     * [Presence Publishing User Status]
   * Technical background
