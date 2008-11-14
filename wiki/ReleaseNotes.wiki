@@ -1,0 +1,34 @@
+#summary Release Notes
+
+
+== Version 0.3 ==
+
+New release of Sipek Softphone is coming soon. 
+Source code revisions:
+ * Sipek2 - r111
+ * SipekSdk - r88 
+
+ * More stable and improved robustness
+ * Bug fixing
+   * Change sound device (Issue 12)
+   * Codec priorities (Issue 11)
+   * Correct account status display (Issue 9)
+   * No crash when adding buddy (Issue 8)
+   * corrections for CFx (call forwardings) 
+   * and many more...
+ * New features
+   * DNS SRV
+ * New configuration settings
+   * EC
+   * VAD
+   * NameServer (for DNS SRV support)
+   * Registration Timeout
+
+
+
+
+
+== Version 0.2 ==
+
+
+TODO...
