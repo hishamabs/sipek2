@@ -6,4 +6,6 @@ Sipek is a group of projects based on VoIP technologies. The story dates back in
 
 See [http://voipengine.googlepages.com/sipekstory full article...]
 
+<wiki:gadget url="http://www.ohloh.net/projects/23904/widgets/project_basic_stats.xml" height="220"  border="1" />
+
 <wiki:gadget url="http://www.ohloh.net/projects/23904/widgets/project_users_logo.xml" height="43"  border="0" />
