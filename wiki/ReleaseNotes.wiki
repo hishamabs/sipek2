@@ -6,7 +6,7 @@
 New release of Sipek Softphone is coming soon. 
 Source code revisions:
  * Sipek2 - r121
- * SipekSdk - r88 
+ * SipekSdk - [http://code.google.com/p/sipeksdk/source/detail?r=88 r88]
 
  * More stable and improved robustness
  * Bug fixing
