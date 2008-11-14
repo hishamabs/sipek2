@@ -9,6 +9,7 @@ It supports most standards and offers many useful telephony features.
   * Introduction
     * [About What is Sipek?]
     * [GettingStarted Getting Started with Sipek Softphone]
+    * [ReleaseNotes Release Notes]
   * User's Manual
     * [Settings Configuration Settings]
       * [ConfAccounts Setting up accounts]
