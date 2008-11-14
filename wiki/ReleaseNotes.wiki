@@ -3,10 +3,7 @@
 
 == Version 0.3 ==
 
-New release of Sipek Softphone is coming soon. 
-Source code revisions:
- * Sipek2 - r121
- * SipekSdk - [http://code.google.com/p/sipeksdk/source/detail?r=88 r88]
+The release candidate (RC1) of Sipek Softphone release 0.3 is coming soon. Changes are listed below:
 
  * More stable and improved robustness
  * Bug fixing
@@ -25,7 +22,9 @@ Source code revisions:
    * Registration Timeout
 
 
-
+Source code revisions:
+ * Sipek2 - r121
+ * SipekSdk - [http://code.google.com/p/sipeksdk/source/detail?r=88 r88]
 
 
 == Version 0.2 ==
