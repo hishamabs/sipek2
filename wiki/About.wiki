@@ -5,3 +5,5 @@
 Sipek is a group of projects based on VoIP technologies. The story dates back in year 2001 with first experiences on VoIP software projects (embedded). The idea for open source VoIP application arose in 2007 and was inspired by a excellent open source project - pjsip.org...
 
 See [http://voipengine.googlepages.com/sipekstory full article...]
+
+<wiki:gadget url="http://www.ohloh.net/projects/23904/widgets/project_users_logo.xml" height="43"  border="0" />
